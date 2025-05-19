@@ -225,6 +225,11 @@ kable(
 ## Citations and Bibliography
 <!-- TODOs: .bib file usage, citation styles, Zotero integration -->
 
+## Inline Citation 
+Use square brackets [] with a @ symbol followed by citation key from the bibliography
+**Examples**
+According to recent studies [@smith2020], climate change is accelerating.
+
 ---
 
 # Git and Collaborative Workflows
